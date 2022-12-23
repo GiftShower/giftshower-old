@@ -1,0 +1,22 @@
+baseURL: "https://examplesite.com/"
+title: GiftShower
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+    profileMode:
+        enabled: true
+        title: "GiftShower" # optional default will be site title
+        subtitle: "I am a programmer"
+        imageUrl: "https://avatars.githubusercontent.com/u/58767497?v=4" # optional
+        imageTitle: "profile picture" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+          - name: Github
+            url: "https://github.com/"
