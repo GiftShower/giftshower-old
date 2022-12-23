@@ -1,6 +1,5 @@
 baseURL: "https://giftshower.github.io/"
 title: GiftShower
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
